@@ -1,6 +1,4 @@
 Hey, whats up? I'm Helly!
-I'm ur average everyday dude on github just looking at stuff people have created! Currently though, I dont do coding.. but I do want to get into it! I aint got the patience right now for it due to just trying to get my life back together again after Covid. But for now, I'm just kind of chilling as of right now.
+I'm ur average everyday dude on github just looking at stuff people have created! Currently though, I dont do coding.. but I do want to get into it! I'm very, very interested in code digging! even though i have no clue what I'm even looking at xD
 
-The main reason I'm actually on github is because of me playing a game u might of heard of called Minecraft! I want to keep up to date with the authors of people who create Minecraft related stuff on here. so, thats what I'm all about!
-
-Thanks for reading. Have a good day! :)
+Currently my main code interest is Java, As I play a game i think is pretty well known by now called Minecraft! I do want to get into modding as well!
